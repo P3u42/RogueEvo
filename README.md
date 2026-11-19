@@ -1,6 +1,7 @@
 # RogueEvo
 Turn-based RPG game with genetic algoritms(work in progress)
 A 2D Roguelike with Turn-Based Combat and Genetic Algorithms
+<sub>🚧 Project status: In Development</sub>
 
 🎮 About the Project
 
